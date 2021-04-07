@@ -5,4 +5,8 @@ i think my first zettel's should be torah ones
 start of by learning major sugyas i think? 
 - rov
 - chazaka 
-- et
+- etc
+
+Could also possible do daf yomi stuff?
+- might be easier to get into than sugyas atm
+- 
