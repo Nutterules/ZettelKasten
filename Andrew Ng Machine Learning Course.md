@@ -16,4 +16,8 @@ Could also possible do daf yomi stuff?
 NEW PLAN: (FOR NOW... :) ):
 
 Learn (seriously) for Rabbi Zobin's shuir
-- need to catch up on topher (though mig)
+- need to catch up on topher (though might write off it's towards the end of the sugya)
+
+before work: learn shabbos bekius
+- do this properly whilst engaged with it and not just listening to a shuir/ reading a trasnaltion. actually think about it.
+- object is to get fast
