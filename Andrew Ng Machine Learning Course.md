@@ -26,4 +26,8 @@ before work: learn shabbos bekius
 
 
 order of study:
-- before starting, read quickly throu
+- before starting, read quickly through the background info section 
+- then learn
+- summarise points outside
+- look at dafyomi.co.il summary 
+- take obsidian literature notes for 
