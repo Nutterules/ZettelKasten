@@ -9,4 +9,11 @@ start of by learning major sugyas i think?
 
 Could also possible do daf yomi stuff?
 - might be easier to get into than sugyas atm
-- 
+
+
+
+
+NEW PLAN: (FOR NOW... :) ):
+
+Learn (seriously) for Rabbi Zobin's shuir
+- need to catch up on topher (though mig)
