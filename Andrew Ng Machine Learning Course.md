@@ -33,4 +33,5 @@ Could also possible do daf yomi stuff?
 - look at dafyomi.co.il summary 
 - zichru simanim
 - take obsidian literature notes for what i believe to be the major points (def not all)
+	- create a seperate note for each point (i think giving the context)
 - try to start permanent notes about how this content relates to other stuff
