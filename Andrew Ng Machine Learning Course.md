@@ -20,4 +20,10 @@ Learn (seriously) for Rabbi Zobin's shuir
 
 before work: learn shabbos bekius
 - do this properly whilst engaged with it and not just listening to a shuir/ reading a trasnaltion. actually think about it.
-- object is to get fast
+- object is to get faster in reading 
+
+- maybe do tosfos as well but with help of dafyomi.co.il
+
+
+order of study:
+- before starting, read quickly throu
