@@ -10,7 +10,7 @@ start of by learning major sugyas i think?
 Could also possible do daf yomi stuff?
 - might be easier to get into than sugyas atm
 
-
+##############
 
 
 NEW PLAN: (FOR NOW... :) ):
@@ -24,10 +24,13 @@ before work: learn shabbos bekius
 
 - maybe do tosfos as well but with help of dafyomi.co.il
 
+----------------------------------------------------
 
 order of study:
 - before starting, read quickly through the background info section 
 - then learn
 - summarise points outside
 - look at dafyomi.co.il summary 
-- take obsidian literature notes for 
+- zichru simanim
+- take obsidian literature notes for what i believe to be the major points (def not all)
+- try to start permanent notes about how this content relates to other stuff
