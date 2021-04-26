@@ -15,6 +15,8 @@ I hate learning, can't be bothered anymore to put the effort in to then get noth
 
 RB said my obligation is to learn irrespective of how i might feel. but this isn't sustainable. without my torah life being sufused with meaning, genuine meaning, then it's destined to fail. it won't last long against the backdrop of the west 
 
+i want nothing more than to just forget hashem. throw off hi
+
 
 reminded of the medrash of Hashem showing Adam the rest of the world from the entrance to the garden of Eden. Adam sees a world of thorns. I too see a world of thorns. i know that going out into it won't bring me any meaning whatsoever. However, the problem is the garden itself is a desolate, forlorn and godforsaken hellhole. 
 
