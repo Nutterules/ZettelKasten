@@ -15,5 +15,7 @@ I have no relationship at all with Hashem. that was pretty much destroyed by rav
 
 I hate learning, can't be bothered anymore to put the effort in to then get nothing of any value out of it 
 
-RB said my obligation is to learn irrespective of how i might feel. but this isn't sustainable. without my torah life being sufused with meaning, genuine meaning, then it's destined to fail. it won'tm a
+RB said my obligation is to learn irrespective of how i might feel. but this isn't sustainable. without my torah life being sufused with meaning, genuine meaning, then it's destined to fail. it won't last long against the backdrop of the west 
+
+
 
