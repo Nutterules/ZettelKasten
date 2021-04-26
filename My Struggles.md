@@ -13,5 +13,7 @@ Yechezkiel 37,11
 
 I have no relationship at all with Hashem. that was pretty much destroyed by rav blachmans hashgacha pratis shuir.
 
+I hate learning, can't be bothered anymore to put the effort in to then get nothing of any value out of it 
 
+RB said my obligation is to learn 
 
