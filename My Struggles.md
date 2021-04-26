@@ -1,1 +1,1 @@
-My religious life is dead. it's ho
+My religious life is dead. it's hollow, unavailing and barren. 
