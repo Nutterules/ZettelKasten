@@ -1,6 +1,6 @@
 Population - the set of items that are of interest 
 
-_Census_ - colelct data on an entire population 
+<ins>Census</ins> - colelct data on an entire population 
 - advantages:
 	- Get an entriely accurate picture of the population
 - cons:
