@@ -63,7 +63,11 @@ Population - the set of items that are of interest
 
 
 ### Types of data
-quantitative data
+- quantitative data: numerical data
+- qualitative data: non_numerical 
+
+- continuous variables: can take any 
+
 2 different types of variables
 - 2 subsections
 
