@@ -57,12 +57,13 @@ Population - the set of items that are of interest
 	- <u>opportunity sampling</u>: sample people available at the time and location of when and where the sample was taken
 		- pros:
 			- easy and inexpensive
-		- cons:#
-			- 
+		- cons:
+			- not representative of populations
+			- will be affected by each individual researcher 
 
 
-
-
+### Types of data
+quantitative data
 2 different types of variables
 - 2 subsections
 
