@@ -69,8 +69,7 @@ Population - the set of items that are of interest
 - continuous variables: can take any value within a given range 
 - discrete data: only specific values within a given range
 
-
-Grouped Frequency tables 
+ 
 
 
 
