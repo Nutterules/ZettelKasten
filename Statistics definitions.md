@@ -25,9 +25,10 @@ Population - the set of items that are of interest
 			- pros: 
 				- no bias
 				- cheap and easy to implement for small populations
-				- each sample has a h
+				- each sample has a known and equal chance of selection
 			- cons:
-				- 
+				- not suitable for large populations 
+				- a sampling frame is needed (a list of people/ things which are assinged unique ID's)
 		- systematic random: samples are taken at regular intervals from an ordered list. the first sample is chosen at random from which the regular interval then begins
 		- stratified random: the sample is divided into it's mutually exclusive strata and random samples are then taken from each.
 		-  
