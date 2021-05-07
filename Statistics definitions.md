@@ -10,9 +10,10 @@ Population - the set of items that are of interest
 	- more difficult to process as large amount of data  
  
 <u>sample</u> - collect data from only part of the population
-| pros	|	cons | 
-| Quicker | not as accurate 	|
-| less expensive |sample might not account properly from sub populations due to size of sample not being large enough|
+| pros	                    |	cons | 
+| -------                   | -------|
+| Quicker                   | not as accurate 	|
+| less expensive            |sample might not account properly from sub populations due to size of sample not being large enough|
 | doesn't require a resposne from all people |	|
 | less data than a census | |
 - cons:
