@@ -35,9 +35,12 @@ Population - the set of items that are of interest
 				- simple/ quick
 				- can be used for large populations 
 			- cons:
-				- 
+				- sampling frame is needed. this can introduce bias if this isn't randomised.
+		
 		- stratified random: the sample is divided into it's mutually exclusive strata and random samples are then taken from each.
-		-  
+			- pros: 
+				- accurately represents the population structure 
+				- guare
 
 2 different types of variables
 - 2 subsections
