@@ -11,13 +11,13 @@ Population - the set of items that are of interest
  
 <u>sample</u> - collect data from only part of the population
 - pros:
-	- Quicker
-	- less expensive
-	- doesn't require a resposne from all people
-	- less data than a census
+| Quicker
+| less expensive
+| doesn't require a resposne from all people
+| less data than a census
 - cons:
 	- not as accurate
-	- sample might not account properly from sub populations due to size of sample not being large enough
+sample might not account properly from sub populations due to size of sample not being large enough
 
 ### Sample types:
 - <u><b>Random</b></u>:
