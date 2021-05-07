@@ -40,7 +40,10 @@ Population - the set of items that are of interest
 		- stratified random: the sample is divided into it's mutually exclusive strata and random samples are then taken from each.
 			- pros: 
 				- accurately represents the population structure 
-				- guare
+				- guarentees proportional representation of the substrata within the population
+			- cons:
+				- must have prior knowledge of substrata and be able to accurately define those groups 
+				- sampling within these substrata has the same cons 
 
 2 different types of variables
 - 2 subsections
