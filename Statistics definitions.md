@@ -14,11 +14,13 @@ Population - the set of items that are of interest
 	- Quicker
 	- less expensive
 	- doesn't require a resposne from all people
-	- less data than a censis
-
-Quicker
+	- less data than a census
+- cons:
+	- not as accurate
+	- sample might not account properly from sub populations due to size of sample not being large enough
 
 - 5 different types of sample
+	- 
 
 2 different types of variables
 - 2 subsections
