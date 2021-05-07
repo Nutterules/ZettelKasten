@@ -22,8 +22,14 @@ Population - the set of items that are of interest
 - Sample types:
 	- Random:
 		- simple random: every sample that's taken has an equal chance of being sample
+			- pros: 
+				- no bias
+				- cheap and easy to implement for small populations
+				- each sample has a h
+			- cons:
+				- 
 		- systematic random: samples are taken at regular intervals from an ordered list. the first sample is chosen at random from which the regular interval then begins
-		- stratified random: the sample is divided into it's mutually exclusive strata and t
+		- stratified random: the sample is divided into it's mutually exclusive strata and random samples are then taken from each.
 		-  
 
 2 different types of variables
