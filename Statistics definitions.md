@@ -47,7 +47,13 @@ Population - the set of items that are of interest
 - <u><b>Non-Random</b></u>:
 	- Quota sampling: a researcher will select a sample that is representative of the entire population
 		- pros:
-			- 
+			- small sample can be representative
+			- no sampling frame 
+			- quick, easy and inexpensive
+		- cons:
+			- can have sampling bias as 
+
+
 	- opportunity sampling: sample people available at the time and location of when and where the sample was taken
 		- 
 		- 
