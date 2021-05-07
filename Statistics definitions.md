@@ -9,9 +9,14 @@ Population - the set of items that are of interest
 	- can't be done if item is distroyed in the process
 	- more difficult to process as large amount of data  
  
-<u>sample<u> - collect data from only part of the population
-	- PROS:
-		- Quicker
+<u>sample</u> - collect data from only part of the population
+- pros:
+	- Quicker
+	- less expensive
+	- doesn't require a resposne from all people
+	- less data than a censis
+
+Quicker
 
 - 5 different types of sample
 
