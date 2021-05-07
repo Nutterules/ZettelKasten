@@ -21,8 +21,8 @@ Population - the set of items that are of interest
 
 - Sample types:
 	- Random:
-		- simple random: 
-		- systematic random
+		- simple random: every sample that's taken has an equal chance of being sample
+		- systematic random: 
 		- stratified random
 		-  
 
