@@ -19,8 +19,12 @@ Population - the set of items that are of interest
 	- not as accurate
 	- sample might not account properly from sub populations due to size of sample not being large enough
 
-- 5 different types of sample
-	- 
+- Sample types:
+	- Random:
+		- simple random: 
+		- systematic random
+		- stratified random
+		-  
 
 2 different types of variables
 - 2 subsections
