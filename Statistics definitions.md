@@ -9,7 +9,7 @@ Population - the set of items that are of interest
 	- can't be done if item is distroyed in the process
 	- more difficult to process as large amount of data  
  
-sample
+<u>sample<u>
 - 5 different types of sample
 
 2 different types of variables
