@@ -1,6 +1,6 @@
 Population - the set of items that are of interest 
 
-<ins>Census</ins> - colelct data on an entire population 
+<ins>Census</ins> - collect data on an entire population 
 - advantages:
 	- Get an entriely accurate picture of the population
 - cons:
@@ -19,7 +19,7 @@ Population - the set of items that are of interest
 	- not as accurate
 	- sample might not account properly from sub populations due to size of sample not being large enough
 
-- Sample types:
+# Sample types:
 	- Random:
 		- simple random: every sample that's taken has an equal chance of being sample
 			- pros: 
@@ -43,7 +43,7 @@ Population - the set of items that are of interest
 				- guarentees proportional representation of the substrata within the population
 			- cons:
 				- must have prior knowledge of substrata and be able to accurately define those groups 
-				- sampling within these substrata has the same cons 
+				- sampling within these substrata has the same cons as simple random sampling 
 
 2 different types of variables
 - 2 subsections
