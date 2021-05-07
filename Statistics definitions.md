@@ -1,7 +1,12 @@
 Population - the set of items that are of interest 
 
 Census - colelct data on an entire population 
-- advat
+- advantages:
+	- Get an entriely accurate picture of the population
+- cons:
+	- more expensive
+	- time consuming 
+	- can't be done if item is distroyed in the process 
  
 sample
 - 5 different types of sample
