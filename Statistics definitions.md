@@ -44,7 +44,10 @@ Population - the set of items that are of interest
 		- cons:
 			- must have prior knowledge of substrata and be able to accurately define those groups 
 			- sampling within these substrata has the same cons as simple random sampling 
-
+- <u><b>Non-Random</b></u>:
+	- Quota sampling
+	- opportunity sampling: sample people available at the time and locat
+		- 
 
 
 
