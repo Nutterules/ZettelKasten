@@ -45,7 +45,7 @@ Population - the set of items that are of interest
 			- must have prior knowledge of substrata and be able to accurately define those groups 
 			- sampling within these substrata has the same cons as simple random sampling 
 - <u><b>Non-Random</b></u>:
-	- Quota sampling: a researcher will select a sample that is representative of the entire population
+	- <u>Quota sampling</u>: a researcher will select a sample that is representative of the entire population
 		- pros:
 			- small sample can be representative
 			- no sampling frame 
@@ -53,13 +53,12 @@ Population - the set of items that are of interest
 		- cons:
 			- can have sampling bias as not random
 			- need to divide population into groups which can be costly/ inaccurate 
-			- difficult to scale the population being studied as this increases the number of groups 
+			- difficult to scale the population being studied as this increases the number of groups
+	- <u>opportunity sampling</u>: sample people available at the time and location of when and where the sample was taken
+		- pros:
+			- easy and inexpensive
+		- cons:#
 			- 
-
-
-	- opportunity sampling: sample people available at the time and location of when and where the sample was taken
-		- 
-		- 
 
 
 
