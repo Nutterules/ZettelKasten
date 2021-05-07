@@ -9,7 +9,10 @@ Population - the set of items that are of interest
 	- can't be done if item is distroyed in the process
 	- more difficult to process as large amount of data  
  
-<u>sample<u>
+<u>sample<u> - collect data from only part of the population
+	- PROS:
+		- Quicker
+
 - 5 different types of sample
 
 2 different types of variables
