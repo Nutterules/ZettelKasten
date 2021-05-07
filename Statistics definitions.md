@@ -66,10 +66,9 @@ Population - the set of items that are of interest
 - quantitative data: numerical data
 - qualitative data: non_numerical 
 
-- continuous variables: can take any 
+- continuous variables: can take any value within a given range 
+- discrete data: only specific values within a given range
 
-2 different types of variables
-- 2 subsections
 
 Grouped Frequency tables 
 
