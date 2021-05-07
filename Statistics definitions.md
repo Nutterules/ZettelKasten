@@ -51,7 +51,10 @@ Population - the set of items that are of interest
 			- no sampling frame 
 			- quick, easy and inexpensive
 		- cons:
-			- can have sampling bias as 
+			- can have sampling bias as not random
+			- need to divide population into groups which can be costly/ inaccurate 
+			- difficult to scale the population being studied as this increases the number of groups 
+			- 
 
 
 	- opportunity sampling: sample people available at the time and location of when and where the sample was taken
