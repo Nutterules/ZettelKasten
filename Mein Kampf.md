@@ -25,5 +25,8 @@ Yechezkiel 37,4
 - but where is the 'Davar Hashem'?  how do i find it and connect to it? 
 
 
+I am pulled on the one hand by things i think could genuinely enhance my understanding of the world in a deep and profound way and on the other 
+
+
 
 
