@@ -4,3 +4,5 @@ Idea that we get stronger from the stressors in our lives
 
 
 Hmm, maybe [[NeverNote]] could learn from this concept.
+
+#concept 
