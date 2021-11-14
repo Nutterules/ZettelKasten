@@ -1,4 +1,4 @@
-The 6 most important keys to typing in markdown
+# The 6 most important keys to typing in markdown
 
 The Link: [[NoteStar]].
 
@@ -8,4 +8,6 @@ Italics: AS you're typing and you want to *emphasis something*, you add asterisk
 
 Bold: Use when want to bring attention to **Big Nouns**
 
-List
+Lists: using hyphens 
+
+Headers 
