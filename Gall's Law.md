@@ -5,4 +5,5 @@ Gall's Law states that all complex systems that worked, evolved from simpler sys
 
 ## Thoughts
 
-It's possible to try and create a very complex system from scratch but it has the drawback of not having been forge through real life experience. 
+It's possible to try and create a very complex system from scratch but it has the drawback of not having been forge through real life experience. it's not been tested. 
+- think communism :) 
