@@ -11,4 +11,10 @@ Plugin
 
 File
 1. Deleted Files
-2. **Always Update Internal Links
+2. **Always Update Internal Links**
+
+Appearance
+1. Dark Mode/ Light Mode
+2. Custom CSS 
+
+Hotkeys
