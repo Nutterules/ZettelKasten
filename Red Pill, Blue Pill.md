@@ -10,4 +10,4 @@ Reminds me of this that just happened ........
 Related: [[Adversity Paradox]]
 
 
-#concept
+- #concept
