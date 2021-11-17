@@ -6,3 +6,9 @@
 6. Forward (ctrl-alt-rightArrow)
 7. New Note (ctrl-n)
 8. Open note in new window (ctrl-click on note)
+
+
+some more:
+
+- click the scroll button over a link to open in another window
+- 
