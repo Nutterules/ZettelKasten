@@ -4,3 +4,5 @@
 4. Search (ctrl-shift-f)
 5. Back (ctrl-alt-leftArrow)
 6. Forward (ctrl-alt-rightArrow)
+7. New Note (ctrl-n)
+8. Open note in new window (ctrl-click on note)
