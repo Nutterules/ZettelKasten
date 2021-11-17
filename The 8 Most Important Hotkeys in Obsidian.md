@@ -11,4 +11,4 @@
 some more:
 
 - click the scroll button over a link to open in another window
-- open link in edit mode but clicking alt-enter
+- open link in edit mode but clicking alt-enter. ctrl-alt-enter to open it in another window
