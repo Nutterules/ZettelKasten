@@ -2,4 +2,5 @@
 2. Toggle edit/preview (ctrl-e) 
 3. Open Quick Switcher (ctrl-o)
 4. Search (ctrl-shift-f)
-5. Back (ctrl- )
+5. Back (ctrl-alt-leftArrow)
+6. Forward (ctrl-alt-rightArrow)
