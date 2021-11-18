@@ -4,4 +4,5 @@ Minor 3rd - Mad World (frist 2 notes )
 Major 3rd - Stevie wonders Sir duke or think of the major chord. Lets dance by David Bowie
 Perfect 4th - Summer Nights (from grease) 
 Tritone (Aug 4th/ Dim 5th) - YYZ by Rush or The Simpson's opening
-Perfect 5th - Star Wars 
+Perfect 5th - Star Wars and ET theme.  
+Minor 6th - 
