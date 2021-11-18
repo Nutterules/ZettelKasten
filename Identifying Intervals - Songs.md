@@ -5,4 +5,5 @@ Major 3rd - Stevie wonders Sir duke or think of the major chord. Lets dance by D
 Perfect 4th - Summer Nights (from grease) 
 Tritone (Aug 4th/ Dim 5th) - YYZ by Rush or The Simpson's opening
 Perfect 5th - Star Wars and ET theme.  
-Minor 6th -  Baker Street Saxophone  or The Entertainer ()
+Minor 6th -  Baker Street Saxophone  or The Entertainer (main melody)
+Major 6th -  
