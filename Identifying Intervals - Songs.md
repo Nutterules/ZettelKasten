@@ -6,4 +6,5 @@ Perfect 4th - Summer Nights (from grease)
 Tritone (Aug 4th/ Dim 5th) - YYZ by Rush or The Simpson's opening
 Perfect 5th - Star Wars and ET theme.  
 Minor 6th -  Baker Street Saxophone  or The Entertainer (main melody)
-Major 6th -  
+Major 6th -  The holly and the Ivy
+Minor 7th -  
