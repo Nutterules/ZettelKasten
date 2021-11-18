@@ -1,1 +1,2 @@
-Minor 2nd - 
+Minor 2nd - Jaws theme 
+Major 2nd - (g)
