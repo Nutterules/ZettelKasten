@@ -23,7 +23,7 @@ Created: 2021-11-28 11:34
 
 * i personally think fake news and disinformation are the same thing based on their definition. Misinformation seems to be an offshoot of a similar idea. they've arbitrarily defined it as intended to cause alarm above and beyond the intention to deceive/ spread lies. Not sure why there's a need for this definition. the intent to cause alarm/ sow distrusts is in my mind probably implicit with the general aim to spread lies. 
 
-* The article is beginning to show it's biases despite claiming to be above partisan politics. the article claims that the reduction in trust in science is primarily the fault of right wing media
+* The article is beginning to show it's biases despite claiming to be above partisan politics. the article claims that the reduction in trust in science is primarily the fault of right wing politics. this is also mirrored in a statistic they quoted earlier about Politifact rating 59% of Fox New's assertions as mostly or all false (compared to 'only' 27% )
 
 
 
