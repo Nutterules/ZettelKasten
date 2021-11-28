@@ -2,7 +2,7 @@
 Created: 2021-11-28 11:34
 
 
-* Initial efforts emphasised  
+* Initial efforts to communi emphasised  
 
 
 
