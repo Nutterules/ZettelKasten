@@ -16,7 +16,12 @@ Created: 2021-11-28 11:34
 * The situation is further compounded by algorithms decided to pull users in for extend amounts of time using clickbait based on previously viewed content. these are used to drive advertising revenue up. This spirals as the content suggestions becomes narrower and narrower leading users to extreme views. 
 	* YouTube may be one of the most powerful radicalizing instruments of the 21st century (Refs 3 & 4)
 
-* THe a
+* The article defines fake news, misinformation and disinformation. i personally find the distinctions to be arbitrary and unconvincing:
+	* fake news, which is fabricated information designed to mimic mainstream media content but which in reality
+is designed to spread lies rather than truth; misinformation—false
+or misleading information put into circulation to cause alarm and
+confusion; and disinformation—false information that is circulated
+with the intention to deceive 
 
 
 
