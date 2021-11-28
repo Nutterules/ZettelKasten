@@ -11,7 +11,7 @@ Created: 2021-11-28 11:34
 	* 1987: FCC removes the fairness doctrine concomitant with the rise of talk radio. leads to ideologically based reporting and was no longer just factual/ honest. After this there's a large increase in the number of broadcasting platforms. 
 	* 1996: Telecommunications Act allows private companies to buy/ own multiple TV and Radio stations. large companies by up smaller independent broadcasters. Effectively things begin to homogenise...
 
-* From the mid 90's to 2010: Creation of internet, explosion of social media plat
+* From the mid 90's to 2010: Creation of internet, explosion of social media platforms with a vast number of uses (2.2 billion). the ideologically based media outlets expand into this space and often misrepresent facts. 
 
 
 
