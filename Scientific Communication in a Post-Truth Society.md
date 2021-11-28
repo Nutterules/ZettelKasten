@@ -13,8 +13,8 @@ Created: 2021-11-28 11:34
 
 * From the mid 90's to 2010: Creation of internet, explosion of social media platforms with a vast number of uses (2.2 billion). the ideologically based media outlets expand into this space and often misrepresent facts. 
 * misinformation is propagated by online trolls, most of which are bots.
-* The situation is further compounded by algorithms decided to pull users in for extend amounts of time using clickbait based on previously viewed content. these are used to drive advertising revenue up.
-* 
+* The situation is further compounded by algorithms decided to pull users in for extend amounts of time using clickbait based on previously viewed content. these are used to drive advertising revenue up. This spirals as the content suggestions becomes narrower and narrower leading users to extreme views. 
+	* YouTube may be one of the most powerful radicalizing instruments of the 21st century
 
 
 
