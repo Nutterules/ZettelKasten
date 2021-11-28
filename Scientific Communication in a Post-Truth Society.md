@@ -5,6 +5,8 @@ Created: 2021-11-28 11:34
 * Initial efforts to communicate scientific ideas emphasised how the information was conveyed - the format, the language used and the content
 * However, more recently it's become apparent that the bigger issue is the presence of misinformation and disinformation. 
 * as of 2016, only 21% of the American population believed that scientists would act in  the best interests of the public. (Ref 2)
+* The progression to this points is outlined as:
+	* 
 
 
 
