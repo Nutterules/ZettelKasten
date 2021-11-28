@@ -14,7 +14,7 @@ Created: 2021-11-28 11:34
 * From the mid 90's to 2010: Creation of internet, explosion of social media platforms with a vast number of uses (2.2 billion). the ideologically based media outlets expand into this space and often misrepresent facts. 
 * misinformation is propagated by online trolls, most of which are bots.
 * The situation is further compounded by algorithms decided to pull users in for extend amounts of time using clickbait based on previously viewed content. these are used to drive advertising revenue up. This spirals as the content suggestions becomes narrower and narrower leading users to extreme views. 
-	* YouTube may be one of the most powerful radicalizing instruments of the 21st century
+	* YouTube may be one of the most powerful radicalizing instruments of the 21st century (Refs 3 & 4)
 
 
 
@@ -22,4 +22,5 @@ Created: 2021-11-28 11:34
 ## References
 1. https://www-pnas-org.yorksj.idm.oclc.org/content/116/16/7656
 2. Funk C, Kennedy B (2017) Public confidence in scientists has remained stable for decades (Pew Research Center, Washington, DC). Available at www.pewresearch.org/fact-tank/2017/04/06/public-confidence-in-scientists-has-remained-stable-for-decades/.
-3. 
+3. Tufekci Z (March 10, 2018) YouTube, the great radicalizer. NY Times. Available at https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html.
+4. Tufekci Z (2015) Algorithmic harms beyond Facebook and Google: Emergent of computational agency. J Telecommun High Technol Law 13:203–445.
