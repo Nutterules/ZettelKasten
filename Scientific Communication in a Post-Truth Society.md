@@ -17,11 +17,9 @@ Created: 2021-11-28 11:34
 	* YouTube may be one of the most powerful radicalizing instruments of the 21st century (Refs 3 & 4)
 
 * The article defines fake news, misinformation and disinformation. i personally find the distinctions to be arbitrary and unconvincing:
-	* fake news, which is fabricated information designed to mimic mainstream media content but which in reality
-is designed to spread lies rather than truth; misinformation—false
-or misleading information put into circulation to cause alarm and
-confusion; and disinformation—false information that is circulated
-with the intention to deceive 
+	* fake news: fabricated information designed to mimic mainstream media content but which in reality is designed to spread lies rather than truth;
+	*  misinformation — false or misleading information put into circulation to cause alarm and confusion
+	*  disinformation — false information that is circulated with the intention to deceive 
 
 
 
