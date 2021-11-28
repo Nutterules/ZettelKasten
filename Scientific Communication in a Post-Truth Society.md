@@ -12,6 +12,7 @@ Created: 2021-11-28 11:34
 	* 1996: Telecommunications Act allows private companies to buy/ own multiple TV and Radio stations. large companies by up smaller independent broadcasters. Effectively things begin to homogenise...
 
 * From the mid 90's to 2010: Creation of internet, explosion of social media platforms with a vast number of uses (2.2 billion). the ideologically based media outlets expand into this space and often misrepresent facts. 
+* misinformation is propogated by online trolls and bots
 
 
 
