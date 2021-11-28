@@ -28,7 +28,7 @@ Created: 2021-11-28 11:34
 
 
 * The article does correctly identify the point that political polarisation has caused each side to deny the credibility of the other and to view them as existential threats. 
-	* Increased Partisan Animosity: 1980s: each side increasingly views the other 
+	* Increased Partisan Animosity: 1980s: each side increasingly views the other as possessing negative qualities. However, this 
 
 
 
