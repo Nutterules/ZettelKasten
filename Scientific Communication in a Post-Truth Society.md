@@ -21,7 +21,7 @@ Created: 2021-11-28 11:34
 	*  misinformation — false or misleading information put into circulation to cause alarm and confusion
 	*  disinformation — false information that is circulated with the intention to deceive 
 
-* i personally think fake news and disinformation are the same thing based on their definition. Misinformation seems to be an o
+* i personally think fake news and disinformation are the same thing based on their definition. Misinformation seems to be an offshoot of a similar idea. they've arbitrarily defined it as intended to cause alarm above and beyond the intention to deceive/ spread lies. 
 
 
 
