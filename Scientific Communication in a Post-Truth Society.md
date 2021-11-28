@@ -28,7 +28,7 @@ Created: 2021-11-28 11:34
 
 
 * The article does correctly identify the point that political polarisation has caused each side to deny the credibility of the other and to view them as existential threats. 
-	* Increased Partisan Animosity: 1980s: American National Election Surveys (ANES) shows that each side increasingly views the other as possessing negative qualities. However, levels of partisans expressing intense negativity for the opposing side only began to increase post-2000s (increasing for 8% (2000) up to 21% (2016)). 
+	* Increased Partisan Animosity: 1980s: American National Election Surveys (ANES) shows that each side increasingly views the other as possessing negative qualities. However, levels of partisans expressing intense negativity for the opposing side only began to increase post-2000s (increasing for 8% (2000) up to 21% (2016)). Increasingly since the 1960's, interparty marriage as increased from single digits to 1/3 of all pa
 
 
 
