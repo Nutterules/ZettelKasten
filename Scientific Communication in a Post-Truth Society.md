@@ -27,6 +27,9 @@ Created: 2021-11-28 11:34
 	* in order to properly ascertain the truth of these assertions i'd have to go look at the research being quoted and understand how statements are being categorised as true/ false. unfortunately, due to the very issues this article is discussing, it's possible that researchers are labeling certain views as false based on their own political biases, thus creating the skew seen...
 
 
+* The article does correctly identify the 
+
+
 
 ## References
 1. https://www-pnas-org.yorksj.idm.oclc.org/content/116/16/7656
