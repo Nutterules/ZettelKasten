@@ -8,7 +8,7 @@ Created: 2021-11-28 11:34
 * The progression to this points is outlined as:
 	* 1970s: only a small number of broadcasters and nationally syndicated newspapers (NYT, Washington Post, Wall Street Journal, Los angeles Times). couple of weekly news digests: Time, Newsweek, US News, and World Report. 
 	* At the same time the Federal Communication Commission (FCC) enforced a "fairness doctrine" that required all broadcasters to present information in a balanced and honest manner. 
-	* 1987: FCC removes the fairness doctrine concomitant with the rise of talk radio. leads to ideologically based reporting and was no longer just factual/ honest.  
+	* 1987: FCC removes the fairness doctrine concomitant with the rise of talk radio. leads to ideologically based reporting and was no longer just factual/ honest. After this there's a large increase in the number of broadc 
 
 
 
