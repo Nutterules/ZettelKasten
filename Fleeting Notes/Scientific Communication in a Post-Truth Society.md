@@ -34,7 +34,7 @@ Created: 2021-11-28 11:34
 * Article goes into partisan views on immigration:
 	* generally democrats overwhelmingly (84%) view immigration as a good thing compared to republican's (42%). similar views on likelihood of immigrants to commit crimes and similarly economic effects too (on whether immigrants are taking US citizen's jobs or just doing what they don't want to). 
 		* one could ask: based on what data have these groups come to their respective opinions? the point they're making is that each side takes its group's point of view. no actual judgment is being made here on which side is correct. 
-* article continues its line that the right is solely responsible for fake news, 
+* article continues its line that the right is solely responsible for fake news, misinformation, and disinformation. 
 
 
 ## References
