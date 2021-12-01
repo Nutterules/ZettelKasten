@@ -39,7 +39,7 @@ Created: 2021-11-28 11:34
 	* finally! the article in passing mentions a topic that more left leaning partisan groups distort: GM crops and vaccination risks (though i feel this might have swung rightwards during covid...).
 
 
-* article doesn't really propose any solutions except for maybe setting up a group to monitor media outputs. it rightly acknowledges though how incredibly difficult the situation i
+* article doesn't really propose any solutions except for maybe setting up a group to monitor media outputs. it rightly acknowledges though how incredibly difficult the situation is. 
 
 
 ## References
