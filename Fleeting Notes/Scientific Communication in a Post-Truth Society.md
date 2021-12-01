@@ -32,8 +32,8 @@ Created: 2021-11-28 11:34
 
 * Article then proceeds to discuss the likelihood within partisan groups to fully accept the party's position and buy into the false beliefs of the party - though tellingly it only brings examples of this occurring within republican party. 
 * Article goes into partisan views on immigration:
-	* generally democrats overwhelmingly (84%) view immigration as a good thing compared to republican's (42%). similar views on likelihood of immigrants to commit crimes. 
-		* one could ask: based on what data have these groups come to their respective opinions? the point they're making is that each side takes its group's point of view. no actual judgement is 
+	* generally democrats overwhelmingly (84%) view immigration as a good thing compared to republican's (42%). similar views on likelihood of immigrants to commit crimes and similarly economic effects too (. 
+		* one could ask: based on what data have these groups come to their respective opinions? the point they're making is that each side takes its group's point of view. no actual judgment is being made here on which side is correct. 
 
 
 
