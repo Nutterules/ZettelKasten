@@ -36,6 +36,7 @@ Created: 2021-11-28 11:34
 		* one could ask: based on what data have these groups come to their respective opinions? the point they're making is that each side takes its group's point of view. no actual judgment is being made here on which side is correct. 
 * article continues its line that the right is solely responsible for fake news, misinformation, and disinformation. 
 	* ironic in the context of it mentioning the stubbornness of people to change their points of view
+	* finally! the article in passing mentions a topic that more left leaning partisan groups distort: GM crops and vaccination risks (though i feel this might have swung rightwards during covid...)
 
 
 ## References
