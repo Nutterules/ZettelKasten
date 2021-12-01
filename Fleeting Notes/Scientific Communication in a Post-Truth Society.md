@@ -31,6 +31,8 @@ Created: 2021-11-28 11:34
 	* Increased Partisan Animosity: 1980s: American National Election Surveys (ANES) shows that each side increasingly views the other as possessing negative qualities. However, levels of partisans expressing intense negativity for the opposing side only began to increase post-2000s (increasing for 8% (2000) up to 21% (2016)). Increasingly since the 1960's, interparty marriage concerns have increased from single digits to 1/3 of all partisans. also seen an increase in residential segregation. 
 
 * Article then proceeds to discuss the likelihood within partisan groups to fully accept the party's position and buy into the false beliefs of the party - though tellingly it only brings examples of this occurring within republican party. 
+* Article goes into partisan views on immigration:
+	* generally democrats overwhelmingly view immigration as a good thing. 
 
 
 
