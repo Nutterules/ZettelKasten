@@ -1,3 +1,6 @@
+# Struggles with Torah Learning
+Created: 2021-12-01 21:43
+
 My religious life is dead. it's hollow, unavailing and barren. 
 
 
