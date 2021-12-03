@@ -2,6 +2,8 @@
 Created: 2021-12-03 10:54
 
 
+- A population is the group of members that you're interested in studfy
+
 
 
 
