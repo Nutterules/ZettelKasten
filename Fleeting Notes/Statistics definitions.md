@@ -15,7 +15,7 @@ Population - the set of items that are of interest
 |:------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 | Quicker                                    | not as accurate                                                                                               |
 | Less Expensive                             | sample might not account properly <br> from sub populations due to size <br> of sample not being large enough |
-| doesn't require a resposne from all people |                                                                                                               |
+| doesn't require a response from all people |                                                                                                               |
 | less data than a census                    |                                                                                                               |
 
 
