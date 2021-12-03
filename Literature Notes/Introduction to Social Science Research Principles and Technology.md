@@ -33,7 +33,8 @@ Created: 2021-12-03 10:54
 
 
 **Types of Variables and Scales of Measurement**
---
+- A <u>Variable</u> is anything that can be coded and can take more than a single value (income, gender, height)
+- A constant
 
 
 
