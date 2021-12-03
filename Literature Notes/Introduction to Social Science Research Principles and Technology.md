@@ -13,6 +13,10 @@ Created: 2021-12-03 10:54
 3) The research typically defines the population either explicitly or implicitly 
 4) The sample taken can very easily not be representative of the population as a whole that it's been drawn from. 
 
+**Inferential and Descriptive Statistics**
+- Descriptive statistics can only describe the sample or population that they've been calculated from
+- Inferential s
+
 
 
 
