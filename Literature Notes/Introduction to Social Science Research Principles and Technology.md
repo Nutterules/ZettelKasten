@@ -3,9 +3,9 @@ Created: 2021-12-03 10:54
 
 
 - A **POPULATION** is the group of members that you're interested in studying
-	- a **PARAMETER** is value derived from or applied to a population 
+- a **PARAMETER** is value derived from or applied to a population 
 - A **SAMPLE** is a chosen subsection of a population.
-	- A **STATISTIC** is a value generated from the sample. 
+- A **STATISTIC** is a value generated from the sample. 
 
 **Considerations to keep in mind**
 1) A population doesn't need to be large to be considered a population - eg it can contain only a few members 
@@ -18,7 +18,7 @@ Created: 2021-12-03 10:54
 - Inferential statistics though is an attempt to take the statistics generated from a sample and to apply/ generalise these to the population as a whole. 
 
 **Sampling Methods**
-- Random Sampling 
+- Random Sampling
 	- this doesn't mean samples are taken in a haphazard manner. 
 	- it means that every member of the population has an equal chance of being selected for the sample. 
 	- the benefit of random sampling is that any differences between the sample and the population are hopefully just due to chance rather than a systematic issue. 
