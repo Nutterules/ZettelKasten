@@ -21,7 +21,9 @@ Created: 2021-12-03 10:54
 - Random Sampling 
 	- this doesn't mean samples are taken in a haphazard manner. 
 	- it means that every member of the population has an equal chance of being selected for the sample. 
-	- the benefit of random sampling is 
+	- the benefit of random sampling is that any differences between the sample and the population are hopefully just due to chance rather than a systematic issue. 
+
+
 
 
 
