@@ -29,7 +29,7 @@ Created: 2021-12-03 10:54
 
 - Convenience Sampling
 	- This is where participants are picked based on ease of access, proximity, and willingness to cooperate. 
-	- This method of sampling is of c
+	- This method of sampling is of course less labour intensive that the other 2; however, as long as the convenience sample doesn't differ from the population in anyway that might affect the outcome of the study then it doesn't matter. 
 
 
 
