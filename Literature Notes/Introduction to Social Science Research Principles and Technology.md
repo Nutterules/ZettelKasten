@@ -32,14 +32,17 @@ Created: 2021-12-03 10:54
 	- This method of sampling is of course less labour intensive that the other 2; however, as long as the convenience sample doesn't differ from the population in anyway that might affect the outcome of the study then it doesn't matter. 
 
 
-**Types of Variables and Scales of Measurement**
+**Types of Variables **
 - A <u>Variable</u> is anything that can be coded and can take more than a single value (income, gender, height)
 - A <u>constant</u> on the other hand can only take  a single value. e.g.  if every member of a category was male then the gender category is constant. 
 
 - <u>Quantitative / Continuous</u> variables indicate an amount 
 - <u>Qualitative/ Categorical</u> variables just indicate a difference but not more or less of a certain quality. 
 
-
+**Scales of Measurement**
+There are 4:
+- Nominal: these just indicate separate categories 
+- Ordina
 
 
 
