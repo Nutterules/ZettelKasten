@@ -1,6 +1,7 @@
 # Introduction to Social Science Research Principles and Technology
 Created: 2021-12-03 10:54
 
+(The following is a summary of the major points in Chapter 1)
 
 - A <u>POPULATION</u> is the group of members that you're interested in studying
 - A <u>PARAMETER</u> is value derived from or applied to a population 
