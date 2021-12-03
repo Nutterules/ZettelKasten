@@ -42,7 +42,8 @@ Created: 2021-12-03 10:54
 **Scales of Measurement**
 There are 4:
 - Nominal: these just indicate separate categories 
-- Ordina
+- Ordinal: Provide a meaningful order for the values but the difference between those groups isn't indicated and might not be uniform. 
+- Interval: This is the same as ordinal
 
 
 
