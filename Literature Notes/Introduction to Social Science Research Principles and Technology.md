@@ -15,7 +15,9 @@ Created: 2021-12-03 10:54
 
 **Inferential and Descriptive Statistics**
 - Descriptive statistics can only describe the sample or population that they've been calculated from
-- Inferential s
+- Inferential statistics though is an attempt to take the statistics generated from a sample and to apply/ generalise these to the population as a whole. 
+
+Sampling Methods
 
 
 
