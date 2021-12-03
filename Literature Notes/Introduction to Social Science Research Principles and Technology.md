@@ -3,9 +3,9 @@ Created: 2021-12-03 10:54
 
 
 - A <u>POPULATION</u> is the group of members that you're interested in studying
-- A  is value derived from or applied to a population 
-- A **SAMPLE** is a chosen subsection of a population.
-- A **STATISTIC** is a value generated from the sample. 
+- A <u>PARAMETER</u> is value derived from or applied to a population 
+- A <u>SAMPLE</u> is a chosen subsection of a population.
+- A <u>STATISTIC</u> is a value generated from the sample. 
 
 **Considerations to keep in mind**
 1) A population doesn't need to be large to be considered a population - eg it can contain only a few members 
