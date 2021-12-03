@@ -7,6 +7,7 @@ Created: 2021-12-03 10:54
 - A **SAMPLE** is a chosen subsection of a population.
 	- A **STATISTIC** is a value generated from the sample. 
 
+- 
 
 
 
