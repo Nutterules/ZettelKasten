@@ -18,16 +18,16 @@ Created: 2021-12-03 10:54
 - Inferential statistics though is an attempt to take the statistics generated from a sample and to apply/ generalise these to the population as a whole. 
 
 **Sampling Methods**
-- Random Sampling
+- <u>Random Sampling</u>
 	- this doesn't mean samples are taken in a haphazard manner. 
 	- it means that every member of the population has an equal chance of being selected for the sample. 
 	- the benefit of random sampling is that any differences between the sample and the population are hopefully just due to chance rather than a systematic issue. 
 
-- Representative Sampling
+- <u>Representative Sampling</u>
 	- This is were the proportions of the various subgroups in a population are accurately represented in the sample that's taken. 
 	- for example: proportionate numbers of men and women appear in the sample.
 
-- Convenience Sampling
+- <u>Convenience Sampling</u>
 	- This is where participants are picked based on ease of access, proximity, and willingness to cooperate. 
 	- This method of sampling is of course less labour intensive that the other 2; however, as long as the convenience sample doesn't differ from the population in anyway that might affect the outcome of the study then it doesn't matter. 
 
