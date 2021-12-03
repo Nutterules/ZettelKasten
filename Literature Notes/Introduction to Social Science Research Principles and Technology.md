@@ -40,7 +40,6 @@ Created: 2021-12-03 10:54
 - <u>Qualitative/ Categorical</u> variables just indicate a difference but not more or less of a certain quality. 
 
 **Scales of Measurement**
-There are 4:
 - <u>Nominal</u>: these just indicate separate categories 
 - <u>Ordinal</u>: Provide a meaningful order for the values but the difference between those groups isn't indicated and might not be uniform. 
 - <u>Interval</u>: This is the same as ordinal but the difference between the groups is uniform
