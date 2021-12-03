@@ -48,6 +48,7 @@ There are 4:
 
 **Research Designs**
 - <u>Experimental Design</u>: Where a sample is divided into groups to determine the effect of one or more variables of interest. These include Randomised Control Trials (RCTs) where the separation into the various groups is done randomly. 
+- <u>Quasi Experimental Research Design</u>: Similar to an Experimental Design, except that the monitoring of the members of teh
 
 
 
