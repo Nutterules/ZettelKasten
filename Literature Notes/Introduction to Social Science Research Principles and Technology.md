@@ -7,7 +7,7 @@ Created: 2021-12-03 10:54
 - A **SAMPLE** is a chosen subsection of a population.
 	- A **STATISTIC** is a value generated from the sample. 
 
-
+**Considerations to keep in mind**
 1) A population doesn't need to be large to be considered a population - eg it can contain only a few members 
 2) A population can be anything, it doesn't just have to be humans 
 3) The research typically defines the population either explicitly or implicitly 
