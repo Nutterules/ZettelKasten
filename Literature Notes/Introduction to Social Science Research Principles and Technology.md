@@ -47,8 +47,7 @@ There are 4:
 - <u>Ratio</u>: similar to interval but the values can take a 0 value too. 
 
 **Research Designs**
-
-
+- <u>Experimental Design</u>: Where a sample is divided into groups to determine the effect of a changing 
 
 
 
