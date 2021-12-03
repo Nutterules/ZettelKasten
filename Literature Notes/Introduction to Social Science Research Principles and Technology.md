@@ -28,6 +28,8 @@ Created: 2021-12-03 10:54
 	- for example: proportionate numbers of men and women appear in the sample.
 
 - Convenience Sampling
+	- This is where participants are picked based on ease of access, proximity, and willingness to cooperate. 
+	- This method of sampling is of c
 
 
 
