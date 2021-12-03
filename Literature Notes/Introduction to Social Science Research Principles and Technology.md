@@ -49,7 +49,7 @@ There are 4:
 **Research Designs**
 - <u>Experimental Design</u>: Where a sample is divided into groups to determine the effect of one or more variables of interest. These include Randomised Control Trials (RCTs) where the separation into the various groups is done randomly. 
 - <u>Quasi Experimental Research Design</u>: Similar to an Experimental Design, except that the monitoring of the members of the groups take place in a more natural setting. for example, monitoring the effect of different curriculum on the success of different groups of children. for ED, this would take place in a lab; for QED, this would take place in their classroom for example. 
-- <u>Correlation Research Design</u>: Individuals aren't separated into groups, nor is the research manipulating various variables. Rather, data is simply collected across variable
+- <u>Correlation Research Design</u>: Individuals aren't separated into groups, nor is the research manipulating various variables. Rather, data is simply collected across variables and statistics are generated to determine the relationship between individuals. 
 
 
 
