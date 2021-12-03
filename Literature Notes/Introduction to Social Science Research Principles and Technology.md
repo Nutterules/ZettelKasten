@@ -2,8 +2,8 @@
 Created: 2021-12-03 10:54
 
 
-- A **POPULATION** is the group of members that you're interested in studying
-- a **PARAMETER** is value derived from or applied to a population 
+- A <u>POPULATION</u> is the group of members that you're interested in studying
+- A  is value derived from or applied to a population 
 - A **SAMPLE** is a chosen subsection of a population.
 - A **STATISTIC** is a value generated from the sample. 
 
@@ -31,7 +31,6 @@ Created: 2021-12-03 10:54
 	- This is where participants are picked based on ease of access, proximity, and willingness to cooperate. 
 	- This method of sampling is of course less labour intensive that the other 2; however, as long as the convenience sample doesn't differ from the population in anyway that might affect the outcome of the study then it doesn't matter. 
 
-
 **Types of Variables **
 - A <u>Variable</u> is anything that can be coded and can take more than a single value (income, gender, height)
 - A <u>constant</u> on the other hand can only take  a single value. e.g.  if every member of a category was male then the gender category is constant. 
@@ -41,10 +40,12 @@ Created: 2021-12-03 10:54
 
 **Scales of Measurement**
 There are 4:
-- Nominal: these just indicate separate categories 
-- Ordinal: Provide a meaningful order for the values but the difference between those groups isn't indicated and might not be uniform. 
-- Interval: This is the same as ordinal but the difference between the groups is uniform
-- Ratio: similar to interval but the values can take a 0 value too. 
+- <u>Nominal</u>: these just indicate separate categories 
+- <u>Ordinal</u>: Provide a meaningful order for the values but the difference between those groups isn't indicated and might not be uniform. 
+- <u>Interval</u>: This is the same as ordinal but the difference between the groups is uniform
+- <u>Ratio</u>: similar to interval but the values can take a 0 value too. 
+
+**Research Designs**
 
 
 
