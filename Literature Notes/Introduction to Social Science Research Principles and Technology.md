@@ -17,7 +17,28 @@ Created: 2021-12-03 10:54
 - Descriptive statistics can only describe the sample or population that they've been calculated from
 - Inferential statistics though is an attempt to take the statistics generated from a sample and to apply/ generalise these to the population as a whole. 
 
-Sampling Methods
+**Sampling Methods**
+- Random Sampling 
+	- this doesn't mean samples are taken in a haphazard manner. 
+	- it means that every member of the population has an equal chance of being selected for the sample. 
+	- the benefit of random sampling is 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
