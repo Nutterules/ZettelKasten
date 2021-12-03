@@ -47,7 +47,7 @@ There are 4:
 - <u>Ratio</u>: similar to interval but the values can take a 0 value too. 
 
 **Research Designs**
-- <u>Experimental Design</u>: Where a sample is divided into groups to determine the effect of a changing 
+- <u>Experimental Design</u>: Where a sample is divided into groups to determine the effect of one or more variables of interest. These include Randomised Control Trials (RCTs) where the separation into the various groups is done randomly. 
 
 
 
