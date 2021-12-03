@@ -24,7 +24,10 @@ Created: 2021-12-03 10:54
 	- the benefit of random sampling is that any differences between the sample and the population are hopefully just due to chance rather than a systematic issue. 
 
 - Representative Sampling
-	- This is were the proportions of the various subgroups in a popul
+	- This is were the proportions of the various subgroups in a population are accurately represented in the sample that's taken. 
+	- for example: proportionate numbers of men and women appear in the sample.
+
+- Convenience Sampling
 
 
 
