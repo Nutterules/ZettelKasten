@@ -5,7 +5,7 @@ Created: 2021-12-07 14:18
 title: cases to think about:
 
 
-- amazon recruitment 
+- amazon recruitment [[Amazon AI Recruiting Tool]]
 - school grades fiasco 
 - invisible women 
 - judicial algorithm penalising black men in americ 
@@ -16,7 +16,7 @@ title: cases to think about:
 title: Question to consider
 
 - How do we ensure that the algorithms that we develop and use are actually fair? 
-- How do we deal with uncomfortable outcomes from these algorithms? What do we do if they clash with societal ideals around diversity o
+- How do we deal with uncomfortable outcomes from these algorithms? What do we do if they clash with societal ideals around diversity of workforce
 
 
 ```
