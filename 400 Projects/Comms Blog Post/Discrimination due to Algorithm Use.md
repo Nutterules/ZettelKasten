@@ -12,7 +12,7 @@ title: cases to think about:
 Other
 - school grades fiasco 
 - invisible women 
-- judicial algorithm penalising black men in americ 
+- judicial algorithm penalising black men in america 
 
 ```
 
