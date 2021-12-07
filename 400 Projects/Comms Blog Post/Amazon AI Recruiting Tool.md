@@ -2,7 +2,7 @@
 Created: 2021-12-07 14:21
 
 
-
+- Amazon wanted to create an AI recruitment tool that would take in a large number of 
 
 
 
