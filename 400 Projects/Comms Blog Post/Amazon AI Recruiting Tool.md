@@ -5,7 +5,7 @@ Created: 2021-12-07 14:21
 - Amazon wanted to create an AI recruitment tool that would take in a large number of resumes and then select the top n candidates that should be hired. 
 - work began in 2014
 - candidates were rated from 1 to 5 stars
-- In 2015 they realised that the algorithm was overly favouring 
+- In 2015 they realised that the algorithm was overly favouring male candidates. this was due to the fact that the algorithm was built using resumes that the company had received over the previous 10 year period, most of whom were men. 
 
 
 
