@@ -7,6 +7,7 @@ Created: 2021-12-07 14:21
 - candidates were rated from 1 to 5 stars
 - In 2015 they realised that the algorithm was overly favouring male candidates. this was due to the fact that the algorithm was built using resumes that the company had received over the previous 10 year period, most of whom were men. 
 - in effect, the system would downgrade resumes that included terms such as 'women' as well as individuals that graduated from two specific all-women's colleges. 
+- despite efforts to counter 
 
 
 
