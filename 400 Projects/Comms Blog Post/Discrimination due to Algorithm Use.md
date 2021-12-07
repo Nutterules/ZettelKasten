@@ -4,8 +4,12 @@ Created: 2021-12-07 14:18
 ```ad-note
 title: cases to think about:
 
-
+<u>Recruitment</u>
 - amazon recruitment [[Amazon AI Recruiting Tool]]
+- HireVue
+
+
+Other
 - school grades fiasco 
 - invisible women 
 - judicial algorithm penalising black men in americ 
