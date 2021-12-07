@@ -2,9 +2,9 @@
 Created: 2021-12-07 14:18
 
 ```ad-note
-title: general thoughts
+title: cases to think about:
 
-cases to think about:
+
 - amazon recruitment 
 - school grades fiasco 
 - invisible women 
@@ -12,7 +12,13 @@ cases to think about:
 
 ```
 
+```ad-note
+title: Question to consider
 
+
+
+
+```
 
 
 
