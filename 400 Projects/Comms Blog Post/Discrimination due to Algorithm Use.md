@@ -15,7 +15,8 @@ title: cases to think about:
 ```ad-note
 title: Question to consider
 
-
+- How do we ensure that the algorithms that we develop and use are actually fair? 
+- how do we deal with uncomfortable outcomes 
 
 
 ```
