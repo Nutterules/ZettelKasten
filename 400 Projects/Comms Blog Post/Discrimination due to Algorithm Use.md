@@ -6,6 +6,7 @@ Created: 2021-12-07 14:18
 cases to think about:
 - amazon recruitment 
 - school grades fiasco 
+- invisible wo
 
 
 
