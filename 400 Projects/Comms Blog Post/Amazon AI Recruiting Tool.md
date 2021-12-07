@@ -9,7 +9,7 @@ MOC: [[Discrimination due to Algorithm Use]]
 - In 2015 they realised that the algorithm was overly favouring male candidates. this was due to the fact that the algorithm was built using resumes that the company had received over the previous 10 year period, most of whom were men. 
 - in effect, the system would downgrade resumes that included terms such as 'women' as well as individuals that graduated from two specific all-women's colleges. 
 - despite efforts to deal with these biases, the program was eventually shut down in 2017 as Amazon felt that it was no longer viable. 
-- 
+- Whilst Amazon had taken the recommendation of the program into account when choosing candidates, they supposedly had never hired solely based on its output a  
 
 
 
