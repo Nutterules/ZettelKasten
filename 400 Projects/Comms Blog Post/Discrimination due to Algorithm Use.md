@@ -7,7 +7,7 @@ cases to think about:
 - amazon recruitment 
 - school grades fiasco 
 - invisible women 
-- judicial algorithm 
+- judicial algorithm penalising black men in americ 
 
 
 
