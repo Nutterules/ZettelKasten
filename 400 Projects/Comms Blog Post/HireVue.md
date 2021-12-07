@@ -4,7 +4,7 @@ Project: Comms Blog Post
 MOC: [[Discrimination due to Algorithm Use]]
 
 
-
+Company that's developed software to judge the best candidate for a job based on their speech and facial patterns 
 
 
 
