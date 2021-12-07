@@ -12,6 +12,8 @@ MOC: [[Discrimination due to Algorithm Use]]
 - Whilst Amazon had taken the recommendation of the program into account when choosing candidates, they supposedly had never hired solely based on its output according to an anonymous source. 
 
 
+- other issues involved for example included the algorithm suggesting indivi 
+
 
 
 ---
