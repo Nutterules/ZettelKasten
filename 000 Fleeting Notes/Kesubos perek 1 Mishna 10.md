@@ -1,0 +1,1 @@
+Mishna rules that if a young girl is raped in a city with a **Rov** koha
