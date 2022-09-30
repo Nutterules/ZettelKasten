@@ -34,3 +34,6 @@ Of switch problem but with uncertain principles:
 he mentions human bad behaviour: 
 - it won't necessarily copy your behaviour, it will understand motivations and maybe help you resist temptation 
 - main difficult is getting a machine to predict what life **any** person might prefer
+
+
+further difficulties in stopping it doing bad things to achieve fgo
