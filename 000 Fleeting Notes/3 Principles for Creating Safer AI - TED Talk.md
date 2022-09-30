@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=EBK-a94IFHY&ab_channel=TED
 
+Stuart Russell 
+
 
 - problem with creating super intelligent AI - could lead to our extinction 
 - ALan turing: even if we could turn machine off then we should still be humbled as a species 
