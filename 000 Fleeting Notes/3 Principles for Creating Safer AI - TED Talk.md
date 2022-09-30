@@ -36,4 +36,7 @@ he mentions human bad behaviour:
 - main difficult is getting a machine to predict what life **any** person might prefer
 
 
-further difficulties in stopping it doing bad things to achieve fgo
+further difficulties in stopping it doing bad things to achieve goal for it's owner
+- delay flights of manager so can spend time with wife on anniversary
+- refuse to cook you dinner as people are starving elsewhere where it can go and help 
+- no food in fridge but asked to cook dinner, so cooks family cat
